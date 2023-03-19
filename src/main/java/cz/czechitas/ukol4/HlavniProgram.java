@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
 public class HlavniProgram {
 
   public static void main(String... args) {
+
     Sportka prvniTah = new Sportka();
     Sportka druhyTah = new Sportka();
 
